@@ -1,0 +1,81 @@
+{
+  "texture": "jeitree:textures/gui/theme.png",
+  "texture_size": [
+    128,
+    128
+  ],
+  "sprites": {
+    "node_raw": {
+      "u": 0,
+      "v": 0,
+      "w": 22,
+      "h": 22
+    },
+    "node_crafted": {
+      "u": 22,
+      "v": 0,
+      "w": 22,
+      "h": 22
+    },
+    "node_hover": {
+      "u": 44,
+      "v": 0,
+      "w": 22,
+      "h": 22
+    },
+    "node_done": {
+      "u": 66,
+      "v": 0,
+      "w": 22,
+      "h": 22
+    },
+    "panel": {
+      "u": 0,
+      "v": 24,
+      "w": 24,
+      "h": 24,
+      "border": 4
+    },
+    "icon_check": {
+      "u": 28,
+      "v": 24,
+      "w": 9,
+      "h": 9
+    },
+    "line_h": {
+      "u": 40,
+      "v": 24,
+      "w": 4,
+      "h": 2
+    },
+    "line_v": {
+      "u": 46,
+      "v": 24,
+      "w": 2,
+      "h": 4
+    },
+    "line_joint": {
+      "u": 52,
+      "v": 24,
+      "w": 4,
+      "h": 4
+    }
+  },
+  "colors": {
+    "line": "#FF8A8A8A",
+    "panel": "#90000000",
+    "text": "#FFFFFF",
+    "node_bg": "#FF2B2B2B",
+    "raw": "#FF55AA55",
+    "crafted": "#FF5577DD",
+    "hover": "#FFFFFF",
+    "done": "#FFFFD34D",
+    "dim": "#AA202020",
+    "have": "#FF55FF55",
+    "partial": "#FFFFFF55",
+    "missing": "#FFFF5555",
+    "header_raw": "#FF55FF55",
+    "header_steps": "#FF55FFFF",
+    "background_tint": "#00000000"
+  }
+}

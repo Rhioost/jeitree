@@ -1,0 +1,21 @@
+{
+  "key.jeitree.open_tree": "Open Recipe Tree",
+  "key.categories.jeitree": "JEI Recipe Trees",
+  "jeitree.screen.title": "Recipe Tree: %s",
+  "jeitree.amount": "Amount: %s",
+  "jeitree.button.reset": "Reset",
+  "jeitree.raw": "Raw materials",
+  "jeitree.steps": "Crafting steps",
+  "jeitree.tooltip.needed": "Needed: %s",
+  "jeitree.tooltip.recipe": "Recipe %s/%s: %s",
+  "jeitree.tooltip.raw": "Base ingredient (no recipe used)",
+  "jeitree.tooltip.hint1": "Click: next recipe",
+  "jeitree.tooltip.hint2": "Right-click: previous recipe",
+  "jeitree.tooltip.hint3": "Shift-click: mark as base ingredient",
+  "jeitree.tooltip.hint4": "Open-tree key: re-root tree on this item",
+  "jeitree.button.inventory_on": "Inventory: On",
+  "jeitree.button.inventory_off": "Inventory: Off",
+  "jeitree.tooltip.have": "In inventory: %s",
+  "jeitree.tooltip.remaining": "Still needed: %s",
+  "jeitree.tooltip.covered": "Not needed (already covered by your inventory)"
+}

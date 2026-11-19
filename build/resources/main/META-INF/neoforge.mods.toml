@@ -1,0 +1,34 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "Custom License, see the github page."
+
+[[mods]]
+modId = "jeitree"
+version = "1.0.0"
+displayName = "JEI Recipe Trees"
+authors = "Rhioost"
+description = '''
+Adds an EMI-style recipe tree to JEI. Hover any item in JEI (or in your inventory) and press T
+to see its full crafting tree, pick alternative recipes per node, and get a raw-material total.
+'''
+
+[[dependencies.jeitree]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.jeitree]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.21.11]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.jeitree]]
+modId = "jei"
+type = "required"
+versionRange = "[19.0.0,)"
+ordering = "AFTER"
+side = "CLIENT"
