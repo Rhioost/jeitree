@@ -68,3 +68,8 @@ NeoForge 1.21.1 MDK (github.com/NeoForgeMDKs/MDK-1.21.1-ModDevGradle), then:
 Items only (fluids ignored), tag ingredients use the first alternative. Inventory matching is by item
 (plain items match any stack of that item; potions/enchanted books and other component items match exactly).
 Armor, offhand, ender chests and nearby containers are not counted.
+
+License 
+# PanicBar
+![README](./README.png)
+
